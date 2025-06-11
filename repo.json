@@ -1,0 +1,11 @@
+{
+  "name": "Xtapes Plugin Repo",
+  "description": "CloudStream plugin for g.xtapes.in (NSFW)",
+  "plugins": [
+    {
+      "name": "GXtapes",
+      "filename": "GXtapes_with_MainPage.cs3",
+      "version": 1
+    }
+  ]
+}
